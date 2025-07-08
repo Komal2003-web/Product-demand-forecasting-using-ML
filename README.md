@@ -2,9 +2,7 @@
 Goal
 Due to the recent boost in AI world, companies have started researching the possibility of using machine learning in place of tranditional approach.
 
-Tuning traditional algorithms takes a significant amount of effords and domain expertise as well.
-
-In this repo, we are trying to figure out a way of predict the same using machine learning algorithms.
+Tuning traditional algorithms takes a significant amount of effords and domain expertise as well. we are trying to figure out a way of predict the same using machine learning algorithms.
 
 Data
 The dataset comprised of units sold on a daily basis along with details regarding the sales, eg. SKU(product id), Store, price etc.
